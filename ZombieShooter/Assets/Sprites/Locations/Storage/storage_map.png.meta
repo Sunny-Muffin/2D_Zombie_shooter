@@ -1,0 +1,996 @@
+fileFormatVersion: 2
+guid: d38ff47d1a034e747b71bbabd5cb6f7d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2480860566253029935
+    second: storage_map_0
+  - first:
+      213: 2398216829151905351
+    second: storage_map_4
+  - first:
+      213: -3413970332263190453
+    second: storage_map_6
+  - first:
+      213: 1781433598036207782
+    second: storage_map_7
+  - first:
+      213: -945314403957531484
+    second: storage_map_10
+  - first:
+      213: 1132249364553403664
+    second: storage_map_11
+  - first:
+      213: 6842429287363904606
+    second: storage_map_12
+  - first:
+      213: 7465816707825039416
+    second: storage_map_15
+  - first:
+      213: 400835050801244016
+    second: storage_map_16
+  - first:
+      213: 8592402499558633177
+    second: storage_map_17
+  - first:
+      213: -897498058334235370
+    second: storage_map_18
+  - first:
+      213: -1075535330790669923
+    second: storage_map_19
+  - first:
+      213: -2646893021232101030
+    second: storage_map_20
+  - first:
+      213: -7697800263399639274
+    second: storage_map_21
+  - first:
+      213: -6820143950227063857
+    second: storage_map_22
+  - first:
+      213: -3904128998169629724
+    second: storage_map_24
+  - first:
+      213: -7490813621609445138
+    second: storage_map_25
+  - first:
+      213: 318869431232713698
+    second: storage_map_26
+  - first:
+      213: 658558408188237864
+    second: storage_map_27
+  - first:
+      213: 7483058784582226668
+    second: storage_map_28
+  - first:
+      213: 9041081475549055686
+    second: storage_map_34
+  - first:
+      213: 6571865034009396469
+    second: storage_map_35
+  - first:
+      213: -4466645694106273170
+    second: storage_map_41
+  - first:
+      213: -9043223216615122999
+    second: storage_map_55
+  - first:
+      213: -7220372751685810133
+    second: storage_map_56
+  - first:
+      213: 3949623484617893295
+    second: storage_map_57
+  - first:
+      213: 6393481638955358717
+    second: storage_map_58
+  - first:
+      213: -4925919825426912805
+    second: storage_map_60
+  - first:
+      213: -8164711746441518953
+    second: storage_map_61
+  - first:
+      213: -8324345150855510092
+    second: storage_map_62
+  - first:
+      213: -2545249355904232855
+    second: storage_map_64
+  - first:
+      213: -1851192552173409180
+    second: storage_map_65
+  - first:
+      213: -2238436802561707921
+    second: storage_map_66
+  - first:
+      213: 175103810881725839
+    second: storage_map_68
+  - first:
+      213: -1635104648488707405
+    second: storage_map_69
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: storage_map_0
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3098
+        width: 6211
+        height: 619
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a49c47a89cd6220800000000000000
+      internalID: 2480860566253029935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2333
+        width: 5301
+        height: 715
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74686f3ff7d284120800000000000000
+      internalID: 2398216829151905351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_6
+      rect:
+        serializedVersion: 2
+        x: 5352
+        y: 2387
+        width: 482
+        height: 591
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40fabf12142f90d0800000000000000
+      internalID: -3413970332263190453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_7
+      rect:
+        serializedVersion: 2
+        x: 5842
+        y: 2387
+        width: 438
+        height: 594
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a8e4e14b6ce8b810800000000000000
+      internalID: 1781433598036207782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_10
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 1515
+        width: 4203
+        height: 753
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ac1d0fde8191e2f0800000000000000
+      internalID: -945314403957531484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_11
+      rect:
+        serializedVersion: 2
+        x: 4304
+        y: 1484
+        width: 89
+        height: 775
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01d0e535cce86bf00800000000000000
+      internalID: 1132249364553403664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_12
+      rect:
+        serializedVersion: 2
+        x: 4421
+        y: 2169
+        width: 1279
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e540e022f2135fe50800000000000000
+      internalID: 6842429287363904606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_15
+      rect:
+        serializedVersion: 2
+        x: 4798
+        y: 1859
+        width: 309
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 838761c7db8eb9760800000000000000
+      internalID: 7465816707825039416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_16
+      rect:
+        serializedVersion: 2
+        x: 4551
+        y: 1882
+        width: 207
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077a880ea5d009500800000000000000
+      internalID: 400835050801244016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_17
+      rect:
+        serializedVersion: 2
+        x: 4591
+        y: 1731
+        width: 154
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9deee518c885e3770800000000000000
+      internalID: 8592402499558633177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_18
+      rect:
+        serializedVersion: 2
+        x: 4789
+        y: 1777
+        width: 172
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615926665427b83f0800000000000000
+      internalID: -897498058334235370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_19
+      rect:
+        serializedVersion: 2
+        x: 5530
+        y: 1626
+        width: 92
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9107d8a05ee211f0800000000000000
+      internalID: -1075535330790669923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_20
+      rect:
+        serializedVersion: 2
+        x: 5678
+        y: 1713
+        width: 349
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a59000f22d8544bd0800000000000000
+      internalID: -2646893021232101030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_21
+      rect:
+        serializedVersion: 2
+        x: 6086
+        y: 1329
+        width: 89
+        height: 433
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 617f724f17beb2590800000000000000
+      internalID: -7697800263399639274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_22
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 1481
+        width: 231
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbbfa1463bf951a0800000000000000
+      internalID: -6820143950227063857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_24
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 1586
+        width: 421
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eb2cc27c5fb1d9c0800000000000000
+      internalID: -3904128998169629724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_25
+      rect:
+        serializedVersion: 2
+        x: 5752
+        y: 1314
+        width: 59
+        height: 349
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee8cf4df2b84b0890800000000000000
+      internalID: -7490813621609445138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 669
+        width: 3451
+        height: 731
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e35b5aee0adc6400800000000000000
+      internalID: 318869431232713698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_27
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 709
+        width: 486
+        height: 738
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82818ef026ba32900800000000000000
+      internalID: 658558408188237864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_28
+      rect:
+        serializedVersion: 2
+        x: 5057
+        y: 1388
+        width: 426
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2d360515a29d760800000000000000
+      internalID: 7483058784582226668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_34
+      rect:
+        serializedVersion: 2
+        x: 4131
+        y: 1104
+        width: 417
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca477743bf587d70800000000000000
+      internalID: 9041081475549055686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_35
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1104
+        width: 435
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4c0ffdd64f33b50800000000000000
+      internalID: 6571865034009396469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_41
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 984
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6a744118694302c0800000000000000
+      internalID: -4466645694106273170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_55
+      rect:
+        serializedVersion: 2
+        x: 4285
+        y: 196
+        width: 250
+        height: 664
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c71715c564008280800000000000000
+      internalID: -9043223216615122999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_56
+      rect:
+        serializedVersion: 2
+        x: 4782
+        y: 842
+        width: 368
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b288bddcc351ccb90800000000000000
+      internalID: -7220372751685810133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_57
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 750
+        width: 210
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa5a03d12a1efc630800000000000000
+      internalID: 3949623484617893295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_58
+      rect:
+        serializedVersion: 2
+        x: 4847
+        y: 295
+        width: 47
+        height: 528
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df99aef2da53ab850800000000000000
+      internalID: 6393481638955358717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_60
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 706
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd9ef55740e93abb0800000000000000
+      internalID: -4925919825426912805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_61
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 394
+        width: 238
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790e4e3dced11be80800000000000000
+      internalID: -8164711746441518953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_62
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 144
+        width: 3348
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b70387803cf97c80800000000000000
+      internalID: -8324345150855510092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_64
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 619
+        width: 71
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962598432357dacd0800000000000000
+      internalID: -2545249355904232855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_65
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 527
+        width: 71
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46ceadc8e2e3f46e0800000000000000
+      internalID: -1851192552173409180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_66
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 348
+        width: 272
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60f52b76997fe0e0800000000000000
+      internalID: -2238436802561707921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_68
+      rect:
+        serializedVersion: 2
+        x: 4952
+        y: 144
+        width: 266
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f852c6efcf71e6200800000000000000
+      internalID: 175103810881725839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: storage_map_69
+      rect:
+        serializedVersion: 2
+        x: 5233
+        y: 252
+        width: 93
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ba9d304cf0fe49e0800000000000000
+      internalID: -1635104648488707405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 500803ede63867044b38a5d2c7fd87bb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
